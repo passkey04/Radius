@@ -1,8 +1,8 @@
 # Radius
 This is assignment by Radius (formerly Agent desk)
-### Language: Python: 3.6.9
+<h2> Language: Python: 3.6.9 </h2>
 <br>
-###Modules:
+<h2> Modules:</h2>
 <br>
 <ul>
   <li>Numpy</li>
@@ -10,7 +10,13 @@ This is assignment by Radius (formerly Agent desk)
   <li>pandas (modin)</li>
 </ul>
 <br>
-### Dataset creation flow:
-![Table Flow](https://user-images.githubusercontent.com/34516730/83185415-9489d680-a148-11ea-870f-026d084bf358.jpg)
 
-
+<h2> Dataset creation flow:</h2>
+<img src=https://github.com/passkey04/Radius/blob/master/Images/Dataset%20creation.jpg width=500 height =200>
+<br>
+<h2> Operation flow : </h2>
+<img src=https://github.com/passkey04/Radius/blob/master/Images/Table%20Flow.jpg width=500 height =200>
+<br>
+<h2> Benchmarking of modin pandas: </h2>
+<img src=https://github.com/passkey04/Radius/blob/master/Images/read_csv_benchmark.png width=300 height =150>
+<br>
