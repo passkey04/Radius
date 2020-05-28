@@ -2,7 +2,7 @@
 This is assignment by Radius (formerly Agent desk)
 ### Language: Python: 3.6.9
 <br>
-#### Modules:
+###Modules:
 <br>
 <ul>
   <li>Numpy</li>
@@ -11,5 +11,6 @@ This is assignment by Radius (formerly Agent desk)
 </ul>
 <br>
 ### Dataset creation flow:
-![Dataset Creation](C:\Users\hp\Downloads\Dataset creation.jpg?raw=true "Title")
+![Table Flow](https://user-images.githubusercontent.com/34516730/83185415-9489d680-a148-11ea-870f-026d084bf358.jpg)
+
 
